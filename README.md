@@ -1,18 +1,11 @@
-Computer Science Solution Cover Page
-Candidate name: lln138		
-			
-Solution title: Program Application Manager		
-			
-		
-			
-User name: Sister		
-			
+Program Application Manager		
+							
 Links to: Product
 	
 			
 			
 			
-Directions to access product or any other additional information: The product also requires logins.txt and the users folder, which are both located in the Forms folder. It must be in the same location as the jar file. If the product does not load, please go to the Product folder and click on “Student Planner.jar”. 	
+Directions to access product or any other additional information: The product also requires "logins.txt" and the "users" folder, which are both located in the Forms folder. It must be in the same location as the jar file. If the product does not load, please go to the Product folder and click on “Student Planner.jar”. 	
 			
 Links to documentation are below		
 			
