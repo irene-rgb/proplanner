@@ -1,6 +1,6 @@
 Program Application Manager		
 							
-Links to: [Product](C:\Users\confe\Downloads\001433-0040 Pan, Irene\001433-0040 Pan, Irene\Forms\Product\Student Planner.jar)
+Links to: [Product]
 	
 			
 			
@@ -11,7 +11,7 @@ Links to documentation are below
 			
 			
 			
-[Planning](C:\Users\confe\Downloads\001433-0040 Pan, Irene\001433-0040 Pan, Irene\Forms\Documentation\Crit_A_Planning.pdf)			
+[Planning]	
 
 Design Record of tasks 
 
